@@ -22,3 +22,17 @@ Este projeto é um conversor de moedas que permite ao usuário selecionar duas m
 2. Execute o programa:
    ```bash
    python src/Conversor_Moedas.py
+
+
+
+
+#Exemplo de entrada e saída
+##Exemplo 1
+Exemplo 1:
+
+    Moeda de Origem: USD
+    Moeda de Destino: EUR
+    Valor para Conversão: 100
+##Saída esperada:
+Taxa de câmbio usada: 0.85
+Valor convertido: 85.00 EUR
