@@ -35,5 +35,7 @@ Entrada:
     Valor para Conversão: 100
     
 Saída esperada:
+
 Taxa de câmbio usada: 0.85
+
 Valor convertido: 85.00 EUR
