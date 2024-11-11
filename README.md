@@ -17,4 +17,5 @@ Este projeto é um conversor de moedas que permite ao usuário selecionar duas m
    git clone https://github.com/seuusuario/moeda-conversor-funcional.git
    cd moeda-conversor-funcional
 2. Execute o programa:
+   ```bash
    python src/conversor_moedas.py
