@@ -26,14 +26,15 @@ Este projeto é um conversor de moedas que permite ao usuário selecionar duas m
 
 
 
-#Exemplo de entrada e saída
+Exemplo de entrada e saída
 
-##Exemplo:
+Entrada:
 
     Moeda de Origem: USD
     Moeda de Destino: EUR
     Valor para Conversão: 100
     
-##Saída esperada:
+Saída esperada:
+'''bash
 Taxa de câmbio usada: 0.85
 Valor convertido: 85.00 EUR
