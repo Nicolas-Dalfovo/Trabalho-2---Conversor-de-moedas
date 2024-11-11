@@ -14,7 +14,7 @@ Este projeto é um conversor de moedas que permite ao usuário selecionar duas m
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/Nicolas-Dalfovo/moeda-conversor-funcional.git
+   git clone https://github.com/Nicolas-Dalfovo/Trabalho-2---Conversor-de-moedas
    cd moeda-conversor-funcional
 2. Execute o programa:
    ```bash
