@@ -28,8 +28,7 @@ Este projeto é um conversor de moedas que permite ao usuário selecionar duas m
 
 #Exemplo de entrada e saída
 
-##Exemplo 1
-Exemplo 1:
+##Exemplo:
 
     Moeda de Origem: USD
     Moeda de Destino: EUR
