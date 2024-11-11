@@ -5,6 +5,9 @@
 ## Sobre o Projeto
 Este projeto é um conversor de moedas que permite ao usuário selecionar duas moedas e realizar uma conversão com base em taxas de câmbio predefinidas.
 
+## Criadores do projeto:
+@Nicolas Marquez Dalfovo
+
 ## Funcionalidades
 - Seleção de moedas de origem e destino.
 - Conversão de valores com taxas predefinidas.
