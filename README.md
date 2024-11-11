@@ -35,6 +35,5 @@ Entrada:
     Valor para Conversão: 100
     
 Saída esperada:
-'''bash
 Taxa de câmbio usada: 0.85
 Valor convertido: 85.00 EUR
