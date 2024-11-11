@@ -1,4 +1,4 @@
-# Trabalho-2---Conversor-de-moedas
+# Trabalho2 - Conversor de moedas
 
 # Conversor de Moedas Funcional
 
