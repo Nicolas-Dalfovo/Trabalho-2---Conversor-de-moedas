@@ -1,1 +1,20 @@
 # Trabalho-2---Conversor-de-moedas
+
+# Conversor de Moedas Funcional
+
+## Sobre o Projeto
+Este projeto é um conversor de moedas que permite ao usuário selecionar duas moedas e realizar uma conversão com base em taxas de câmbio predefinidas.
+
+## Funcionalidades
+- Seleção de moedas de origem e destino.
+- Conversão de valores com taxas predefinidas.
+- Validação de entradas e função de conversão pura.
+
+## Como Executar
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/seuusuario/moeda-conversor-funcional.git
+   cd moeda-conversor-funcional
+2. Execute o programa:
+   python src/conversor_moedas.py
